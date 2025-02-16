@@ -1,6 +1,6 @@
 lab 1
 ______________________________________________________________________________
-https://best-aragon-510.notion.site/Kubernetes-199fd15b56a380ca8139d425fff55967?pvs=4
+https://best-aragon-510.notion.site/Lab-1-Kubernetes-195fd15b56a380d6a572ecafecd28e97?pvs=4
 
 lab 2
 ________________________________________________________
